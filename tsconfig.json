@@ -18,5 +18,8 @@
     "enableIvy": true,
     "fullTemplateTypeCheck": true,
     "strictInjectionParameters": true
-  }
+  },
+  "exclude": [
+    "node_modules"
+  ]
 }
